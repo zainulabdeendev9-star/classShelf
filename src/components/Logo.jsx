@@ -1,6 +1,6 @@
 const Logo = ({width = "50px" }) => {
     return (
-        <img src ="/src/assets/logo.png" alt="My Notes" style={{width}}/>
+        <img src ="/logo.png" alt="ClassShelf" style={{width}}/>
     );
 };
 
